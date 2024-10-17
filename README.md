@@ -25,3 +25,6 @@ The code needed to import the required libraries and load the CSV file with the 
 Your main tasks will be to use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualizations.
 
 ![Screenshot 2024-09-21 at 9 12 01 PM](https://github.com/user-attachments/assets/75604860-694f-40ad-86b2-7acd38f8bd62)
+
+Utilized Learning Assistant and Chat GPT for assistance in coding and resolving error messages, particularly for defining a function for creating the linear regression plots.
+
